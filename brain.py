@@ -1,7 +1,7 @@
 #Step1: Setup GROQ API key
 import os
 
-GROQ_API_KEY="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"
+GROQ_API_KEY=""
 
 #Step2: Convert image to required format
 import base64

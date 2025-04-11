@@ -93,7 +93,7 @@ import os
 import platform
 import subprocess
 
-ELEVENLABS_API_KEY = "sk_70c2e75067e9aa9de63f363eea70a22c7c206b668933f9e4"  # Replace with your actual API key
+ELEVENLABS_API_KEY = ""  # Replace with your actual API key
 
 def text_to_speech_with_elevenlabs(input_text, output_filepath):
     client = ElevenLabs(api_key=ELEVENLABS_API_KEY)
