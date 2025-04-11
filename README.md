@@ -33,7 +33,7 @@ An intelligent virtual doctor powered by **LLMs**, **Groq's blazing-fast inferen
 ## 📸 Screenshot
 
 > Replace the image below with your own screenshot:
-![App Screenshot](/result.png)
+![App Screenshot](/start.png)
 
 
   ## 📦 Future Improvements - 
